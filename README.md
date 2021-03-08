@@ -1,6 +1,6 @@
 # Rest API Flask (Python) e Postgres
 
-Criação de uma API utilizando Flask (Python) e banco de dados Postgres.
+Criação de uma API utilizando Flask (Python), banco de dados Postgres e SqlAlchemy.
 Não foi utilizado ORM, embora fosse possível e talvez uma solução melhor.
 O objetivo foi criar uma api, mas também mostrar como SQL pode ser usado e algumas sintaxes dessa linguagem.
 
