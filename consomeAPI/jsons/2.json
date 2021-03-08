@@ -1,0 +1,28 @@
+{
+   "identificador":"NELSON EDSON ANCHITE JUNIOR",
+   "Pedido":{
+      "Codigo":"TkVMU09OIEVEU09OIEFOQ0hJVEUgSlVOSU9SMg==",
+      "OrdemServico":2
+   },
+   "Paciente":{
+      "Codigo":3,
+      "Nome":"Rodrigo",
+      "Sexo":"M"
+   },
+   "Exames":{
+      "Exame":[
+         {
+            "Codigo":102,
+            "Descricao":"T4"
+         },
+         {
+            "Codigo":101,
+            "Descricao":"Glicose"
+         },
+         {
+            "Codigo":103,
+            "Descricao":"TSH"
+         }
+      ]
+   }
+}
